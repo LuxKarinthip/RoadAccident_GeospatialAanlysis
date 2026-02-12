@@ -25,8 +25,7 @@
 ## Tools
 Python, Pandas, GeoPandas, Folium, Google Maps API / ArcGIS
 
-Team size : 5 person : Data Scientist x 1 / Claim x 2 / Project Cooperation x 2
-Karinthip Sribunrueang | Insurance & Data Analytics
+Team size : 5 person : Claim x 2 / Project Cooperation x 2 / Data Scientist(Karinthip) x 1
 
 ## Area for geospatial analysis
 Pilot project for 10 provinces in Thailand, Started from Chacheonsao, Ubonratchatani, Korat etc.
